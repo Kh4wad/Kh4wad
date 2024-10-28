@@ -4,9 +4,9 @@
 - 👨‍💻 Desenvolvedor Iniciante.
 
 <div align="center">
-  <a href="https://github.com/GUTOFAR1AS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUTOFAR1AS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTOFAR1AS&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Kh4wad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kh4wad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wad&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
