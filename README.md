@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Kalil Hani
 
-Me chamo Kalil Hani, tenho 20 anos, sou de Cascavel Pr, atualmente estou cursando Engenharia de Software na universidade FAG.
+Me chamo Kalil Hani, tenho 20 anos, sou de Cascavel PR, atualmente estou cursando Engenharia de Software na universidade FAG.
 
 ### 🤖 Linguagens e Tecnologias
 
